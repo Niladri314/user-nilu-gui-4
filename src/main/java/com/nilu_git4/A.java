@@ -6,5 +6,6 @@ public class A {
         System.out.println("This is my first Java program.");
         System.out.println("Hello Munna Bhai dada");
         System.out.println("This is my second Java program.");
+        System.out.println("Lalallal tiwari ha hum");
     }
 }
