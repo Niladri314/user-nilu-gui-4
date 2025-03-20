@@ -5,5 +5,6 @@ public class A {
         System.out.println("Hello, Nilu!");
         System.out.println("This is my first Java program.");
         System.out.println("Hello Munna Bhai dada");
+        System.out.println("This is my second Java program.");
     }
 }
